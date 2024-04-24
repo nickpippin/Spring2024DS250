@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/course_work_portfolio/sitemap.xml
+Sitemap: https://nickpippin.github.io/Spring2024DS250/sitemap.xml
